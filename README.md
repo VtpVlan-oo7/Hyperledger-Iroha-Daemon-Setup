@@ -1,4 +1,4 @@
-# Iroha-Daemon-Setup-locally
+# Iroha-Daemon-Setup
 
 
 #############===========AccountID will be use as just like address==========##################
